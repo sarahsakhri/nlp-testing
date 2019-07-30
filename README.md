@@ -1,2 +1,1 @@
 # nlp-testing
-dialogflow

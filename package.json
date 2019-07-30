@@ -1,0 +1,29 @@
+{
+  "name": "nlp-testing",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^4.0.2",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongoose": "^5.5.13",
+    "nodemon": "^1.19.1",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pphan93/nlp-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pphan93/nlp-testing/issues"
+  },
+  "homepage": "https://github.com/pphan93/nlp-testing#readme"
+}
